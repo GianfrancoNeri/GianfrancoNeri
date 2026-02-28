@@ -1,5 +1,7 @@
 ## Hi there, I'm Gianfranco Neri, a second-year IT student at Xavier University.
 
+## Fun Fact: I'm originally from Pagadian City before going to Cagayan de Oro in 2024 for college.
+
 <!--
 **GianfrancoNeri/GianfrancoNeri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
